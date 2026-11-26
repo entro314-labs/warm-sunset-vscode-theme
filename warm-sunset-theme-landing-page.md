@@ -147,7 +147,7 @@ This VSCode theme is the first implementation of the broader **Warm Sunset Desig
 ## Technical Implementation
 
 ### Theme Architecture
-```
+```tree
 warm-sunset-theme/
 ├── themes/
 │   ├── warm-sunset-light-color-theme.json    # Light variant
